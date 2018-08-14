@@ -1,2 +1,2 @@
 # vue-cli-plugin-codemirror
-CodeMirro for vue
+CodeMirror for vue
