@@ -2,7 +2,7 @@
   "name": "vue-cli-plugin-codemirror",
   "version": "0.0.2",
   "devDependencies": {
-    "@vue/cli": "^3.0.0",
+    "@vue/cli": "^3.0.0"
   },
   "description": "CodeMirror for vue",
   "main": "index.js",
