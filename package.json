@@ -6,7 +6,7 @@
   },
   "description": "CodeMirror for vue",
   "main": "index.js",
-  "repository": "https://github.com/guodf/vue-cli/plugin-codemirror",
+  "repository": "https://github.com/guodf/vue-cli-plugin-codemirror",
   "author": "guo_net_win@live.com",
   "license": "MIT"
 }
